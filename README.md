@@ -1,5 +1,5 @@
 
-# NAME:hanumanth rao
+# NAME:Hanumanth rao
 ## REGISTER NUMBER:212222240016
 
 # EX-01-Datatypes-Operators
